@@ -1,5 +1,5 @@
 # MediaWiki-
-MediaWiki  App - Terraform and Ansible Integration
+MediaWiki  App Deployment 
 Integrating Terraform infrastructure provisioning and Ansible configuration management for end-to-end automation.
 
 Requirements
